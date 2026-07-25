@@ -1,0 +1,16 @@
+# Build
+build/
+.gradle/
+*.apk
+*.aab
+
+# Android Studio / IntelliJ
+.idea/
+*.iml
+.DS_Store
+
+# Local config com segredos — NUNCA versionar
+local.properties
+
+# Logs
+*.log
